@@ -7,7 +7,6 @@ Built with the Next.js 13.5 App Router, tRPC, TypeScript, Prisma & Tailwind
 ![Project Image](https://github.com/medamin001/SmartPDF/blob/main/public/SmartPDF_ui.png)
 ## Features
 
-- 🛠️ Complete SaaS Built From Scratch
 - 💻 Beautiful Landing Page & Pricing Page Included
 - 💳 Free & Pro Plan Using Stripe
 - 📄 A Beautiful And Highly Functional PDF Viewer
@@ -23,7 +22,7 @@ Built with the Next.js 13.5 App Router, tRPC, TypeScript, Prisma & Tailwind
 - 🌲 Pinecone as our Vector Storage
 - 📊 Prisma as our ORM
 - 🔤 100% written in TypeScript
-- 🎁 ...much more
+
 
 ## Getting started
 

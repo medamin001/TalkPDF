@@ -4,7 +4,7 @@ Built with the Next.js 13.5 App Router, tRPC, TypeScript, Prisma & Tailwind
 
 ![Project Image](https://github.com/medamin001/SmartPDF/blob/main/public/thumbnail.png)
 
-![Project Image](https://github.com/medamin001/SmartPDF/blob/main/public/th2.png)
+![Project Image](https://github.com/medamin001/SmartPDF/blob/main/public/SmartPDF_ui.png)
 ## Features
 
 - 🛠️ Complete SaaS Built From Scratch

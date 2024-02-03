@@ -7,7 +7,7 @@ Built with the Next.js 13.5 App Router, tRPC, TypeScript, Prisma & Tailwind
 
   
 
-![Project Image](https://github.com/medaminturki01/SmartPDF/blob/master/public/thumbnail.png)
+![Project Image](https://github.com/medaminturki001/SmartPDF/blob/master/public/thumbnail.png)
 
   
 
